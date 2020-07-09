@@ -1,1 +1,3 @@
-# i2ca_404
+---
+permalink: /index.html
+---
